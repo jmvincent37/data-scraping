@@ -57,6 +57,7 @@ Part 2: Scrape and Analyze Mars Weather Data (60 points)
 * The DataFrame was exported into a CSV file. (5 points)
 
 ### Additional Support and Resources Used:
-Tutor Sesion\
+Tutor Sessions (2)\
 https://stackoverflow.com \
-https://www.askpython.com 
+https://www.askpython.com \
+https://pandas.pydata.org
